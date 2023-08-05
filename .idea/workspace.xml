@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0f40caa-2e5a-4180-9360-fcbe563f29af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/parcial1p2b2023/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/parcial1p2b2023/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/parcial1p2b2023/escena2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/parcial1p2b2023/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/parcial1p2b2023/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Actualizar (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Carrito-de-compras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Clientes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/GuardarTodo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Nventa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/ayuda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/borrar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/compras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/dual2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/eliminar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/encabezado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/excel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/iniciar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/lupa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/nuevo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/producto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/proveedor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/salir_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/torta.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TS12r8RNZVRrpPTYDuY91C0Hho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dual4/Desktop/Proyectos Progra/Parcial1P2B2023/src/main/resources/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dual4\Desktop\Proyectos Progra\Parcial1P2B2023\src\main\resources\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0f40caa-2e5a-4180-9360-fcbe563f29af" name="Changes" comment="" />
+      <created>1691021466764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691021466764</updated>
+      <workItem from="1691021467831" duration="12342000" />
+      <workItem from="1691078872214" duration="1774000" />
+      <workItem from="1691112333974" duration="4810000" />
+      <workItem from="1691193516211" duration="4017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
